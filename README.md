@@ -26,4 +26,4 @@ Install the following plugins for the demo.
 Install ArgoCD in your Kubernetes cluster following this link - https://argo-cd.readthedocs.io/en/stable/getting_started/
 
 ## How to run!
-visit 
+
